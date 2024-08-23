@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>Eu sou Marcos, Desenvolvedor Front-End.</p>
+<p>Eu sou Marcos Vaz, Desenvolvedor Front-End.</p>
 <p>Me tornando 1% melhor a cada dia na programação.</p>
 <p>As Linguagens e Tecnologias que Domino:</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
